@@ -2,7 +2,8 @@
 This is my First GITHUB repository
 <br>
  HEAD
-Author - Suryansh Pandey (suryansh Pandey)
+Author - Suryansh Pandey (From TCET)
 
 Author - Suryansh Pandey 
- 26708b3a02a445032493110229b2beb50d9e366d
+<h1> 1st year BCA student </h1>
+
